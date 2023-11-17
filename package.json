@@ -9,7 +9,8 @@
     "build": "run-p type-check build-only",
     "preview": "vite preview",
     "build-only": "vite build",
-    "type-check": "vue-tsc --noEmit"
+    "type-check": "vue-tsc --noEmit",
+    "deploy": "yarn build-only && node deploy.mjs"
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "2",
