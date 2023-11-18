@@ -270,7 +270,7 @@ function selected(route: any, nav: NavLink) {
         <div class="flex-1 w-0"></div>
 
         <!-- <NavSearchBar />-->
-        <NavBarI18n class="hidden md:!inline-block" />
+        <!-- <NavBarI18n class="hidden md:!inline-block" /> -->
         <NavbarThemeSwitcher class="!inline-block" />
         <NavbarSearch class="!inline-block" />
         <NavBarWallet />
