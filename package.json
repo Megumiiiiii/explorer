@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit",
-    "deploy": "yarn build-only && node deploy.mjs"
+    "deploy": "yarn build && node deploy.mjs"
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "2",
