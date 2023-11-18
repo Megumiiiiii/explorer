@@ -11,7 +11,7 @@
   "logo": "/logos/CC.png",
   "theme_color": "#ff4bff",
   "assets": [{
-      "base": "ubp",
+      "base": "ubpf",
       "symbol": "BPF",
       "exponent": "6",
       "coingecko_id": "", 
