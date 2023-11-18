@@ -28,15 +28,9 @@
       >
       <a
         class="link link-primary no-underline"
-        href="https://github.com/Megumiiiiii/explorer"
+        href="https://github.com/ping-pub/explorer"
         target="noopener noreferrer"
         >Github</a
-      >
-      <a
-        class="link link-primary no-underline"
-        href="https://megumii.blessingway.xyz"
-        target="noopener noreferrer"
-        >Website</a
       >
     </div>
   </footer>
