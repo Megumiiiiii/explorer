@@ -2,7 +2,7 @@ import Irys from "@irys/sdk";
 import { WarpFactory, defaultCacheOptions } from "warp-contracts";
 import Arweave from "arweave";
 
-const ANT = "7Q_92xxEGJ6HkBop11D0gWLS-cW6gODpbv9RN71Hq8I";
+const ANT = "PDi4myhBweWJvTg3eXQDY82fFc-sjq1fqorMj69ZekI";
 const DEPLOY_FOLDER = "./dist";
 const IRYS_NODE = "https://node2.irys.xyz";
 
