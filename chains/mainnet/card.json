@@ -1,5 +1,5 @@
 {
-  "chain_name": "Card-Chain",
+  "chain_name": "CardChain-Testnet",
   "api": ["https://rest.cc.kessoku.xyz","https://cc.api.t.stavr.tech" ],
   "rpc": ["https://api.cc.kessoku.xyz", "http://crowd.rpc.t.stavr.tech:21207"],
   "chainId": "cardtestnet-5",
