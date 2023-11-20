@@ -1,0 +1,21 @@
+{
+    "chain_name": "Source",
+    "api": ["ttps://source.api.kjnodes.com","https://source-api.polkachu.com/", "https://api.source.nodestake.top"],
+    "rpc": ["https://source.rpc.kjnodes.com", "https://source-rpc.polkachu.com/", "https://rpc.source.nodestake.top"],
+    "chainId": "source-1",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "source",
+    "logo": "/logos/source.png",
+    "theme_color": "#2f8afa",
+    "assets": [{
+        "base": "usource",
+        "symbol": "Source",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/source.png"
+    }]
+  }
+  

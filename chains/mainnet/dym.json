@@ -1,0 +1,21 @@
+{
+    "chain_name": "Dymension-Testnet",
+    "api": ["https://dymension.api.t.stavr.tech","https://cosmoshub.api.kjnodes.com" ],
+    "rpc": ["https://dym.rpc.t.stavr.tech", "https://cosmos-rpc.polkachu.com", "https://cosmoshub.rpc.kjnodes.com"],
+    "chainId": "froopyland_100-1",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "60",
+    "min_tx_fee": "800",
+    "addr_prefix": "dym",
+    "logo": "/logos/dym.png",
+    "theme_color": "#ad916d",
+    "assets": [{
+        "base": "udym",
+        "symbol": "dym",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/dym.png"
+    }]
+  }
+  

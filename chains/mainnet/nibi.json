@@ -9,7 +9,7 @@
   "min_tx_fee": "700",
   "addr_prefix": "nibi",
   "logo": "/logos/nibi.png",
-  "theme_color": "#ff4bff",
+  "theme_color": "#020c9c",
   "assets": [{
       "base": "unibi",
       "symbol": "NIBI",
