@@ -225,7 +225,7 @@ function selected(route: any, nav: NavLink) {
               Add to Wallet
             </div>
           </RouterLink>
-
+      <!--
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
         <a
           href="https://x.com/megumii_tez"
@@ -239,8 +239,9 @@ function selected(route: any, nav: NavLink) {
             X
           </div>
         </a>
+       -->
         <a
-          href="https://megumii.xyz"
+          href="https://kessoku.xyz"
           target="_blank"
           class="py-2 px-4 flex items-center rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
