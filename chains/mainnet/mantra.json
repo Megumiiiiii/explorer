@@ -16,6 +16,7 @@
         "exponent": "6",
         "coingecko_id": "", 
         "logo": "/logos/mantra.png"
-    }]
+    }],
+    "beta": true
   }
   

@@ -16,6 +16,7 @@
         "exponent": "18",
         "coingecko_id": "", 
         "logo": "/logos/dym.png"
-    }]
+    }],
+    "beta": true
   }
   
