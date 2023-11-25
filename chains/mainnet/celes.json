@@ -7,7 +7,7 @@
   "sdk_version": "0.46.1",
   "coin_type": "118",
   "min_tx_fee": "800",
-  "addr_prefix": "utia",
+  "addr_prefix": "celestia",
   "logo": "/logos/celes.png",
   "theme_color": "#9b2bfc",
   "assets": [{
