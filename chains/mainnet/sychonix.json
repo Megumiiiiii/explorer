@@ -1,0 +1,22 @@
+{
+  "chain_name": "sychonix",
+  "api": "https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rest",
+  "rpc": "https://froopyland.dymension.xyz/23/sychonix_4126408-1-a/rpc",
+  "chainId": "sychonix_4126408-1",
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "60",
+  "min_tx_fee": "800",
+  "addr_prefix": "ethm",
+  "logo": "/logos/syc.jpg",
+  "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+  "theme_color": "#ff4bff",
+  "assets": [{
+      "base": "uSYNX",
+      "symbol": "SYNX",
+      "exponent": "18",
+      "coingecko_id": "", 
+      "logo": "/logos/syc.jpg"
+  }],
+  "beta": true
+}
