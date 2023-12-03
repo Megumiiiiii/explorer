@@ -6,7 +6,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
     "coin_type": "60",
-    "min_tx_fee": "800",
+    "min_tx_fee": "5000",
     "addr_prefix": "dym",
     "logo": "/logos/dym.png",
     "theme_color": "#ad916d",
