@@ -1,0 +1,23 @@
+{
+    "chain_name": "kafir",
+    "api": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rest",
+    "rpc": "https://froopyland.dymension.xyz/22/kafirchain_4272528-1/rpc",
+    "chainId": "kafirchain_4272528-1",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "60",
+    "min_tx_fee": "800",
+    "addr_prefix": "ethm",
+    "logo": "/logos/kafir.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "theme_color": "#8a8988",
+    "assets": [{
+        "base": "uSYNX",
+        "symbol": "SYNX",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/kafir.png"
+    }],
+    "beta": true
+  }
+  
