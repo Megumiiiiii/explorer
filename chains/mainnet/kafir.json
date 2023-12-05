@@ -12,8 +12,8 @@
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "theme_color": "#8a8988",
     "assets": [{
-        "base": "uSYNX",
-        "symbol": "SYNX",
+        "base": "uKFR",
+        "symbol": "KFR",
         "exponent": "18",
         "coingecko_id": "", 
         "logo": "/logos/kafir.png"
