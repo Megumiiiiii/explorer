@@ -10,7 +10,7 @@
     "addr_prefix": "ethm",
     "logo": "/logos/kafir.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
-    "theme_color": "#8a8988",
+    "theme_color": "#bf022e",
     "assets": [{
         "base": "uKFR",
         "symbol": "KFR",
