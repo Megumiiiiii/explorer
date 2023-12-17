@@ -1,7 +1,7 @@
 {
   "chain_name": "CardChain-Testnet",
-  "api": ["https://rest.cc.kessoku.xyz","https://cc.api.t.stavr.tech" ],
-  "rpc": ["https://api.cc.kessoku.xyz", "http://crowd.rpc.t.stavr.tech:21207"],
+  "api": ["https://rest.cc.kessoku.xyz"],
+  "rpc": ["https://api.cc.kessoku.xyz"],
   "chainId": "cardtestnet-5",
   "snapshot_provider": "",
   "sdk_version": "0.46.1",
