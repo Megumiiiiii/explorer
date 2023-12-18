@@ -4,7 +4,7 @@
     "rpc": ["https://sentry.tm.injective.network:443"],
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
-    "coin_type": "60",
+    "coin_type": "118",
     "min_tx_fee": "800",
     "addr_prefix": "inj",
     "logo": "/logos/inj.png",
@@ -12,7 +12,7 @@
     "assets": [{
         "base": "INJ",
         "symbol": "INJ",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "injective-protocol", 
         "logo": "/logos/inj.png"
     }]
