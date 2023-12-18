@@ -10,8 +10,8 @@
     "logo": "/logos/inj.png",
     "theme_color": "#526869",
     "assets": [{
-        "base": "uinj",
-        "symbol": "inj",
+        "base": "uINJ",
+        "symbol": "INJ",
         "exponent": "6",
         "coingecko_id": "injective-protocol", 
         "logo": "/logos/inj.png"
