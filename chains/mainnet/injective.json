@@ -12,7 +12,7 @@
     "assets": [{
         "base": "uinj",
         "symbol": "inj",
-        "exponent": "18",
+        "exponent": "6",
         "coingecko_id": "injective-protocol", 
         "logo": "/logos/inj.png"
     }]
