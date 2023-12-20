@@ -1,0 +1,21 @@
+{
+    "chain_name": "Injective",
+    "api": ["https://sentry.lcd.injective.network" ],
+    "rpc": ["https://sentry.tm.injective.network"],
+    "chainId": "injective-1",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "inj",
+    "logo": "/logos/inj.png",
+    "theme_color": "#526869",
+    "assets": [{
+        "base": "inj",
+        "symbol": "inj",
+        "exponent": "6",
+        "coingecko_id": "injective-protocol", 
+        "logo": "/logos/inj.png"
+    }]
+  }
+  
