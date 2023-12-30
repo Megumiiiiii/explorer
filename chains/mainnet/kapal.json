@@ -1,0 +1,20 @@
+{
+    "chain_name": "Kapal-Lawd",
+    "api": ["https://sei.api.kjnodes.com" ],
+    "rpc": ["https://sei.rpc.kjnodes.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "sei",
+    "logo": "/logos/sei.png",
+    "theme_color": "#b0514a",
+    "assets": [{
+        "base": "usei",
+        "symbol": "sei",
+        "exponent": "6",
+        "coingecko_id": "sei-network", 
+        "logo": "/logos/sei.png"
+    }]
+  }
+  
