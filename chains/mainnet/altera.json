@@ -13,7 +13,7 @@
   "assets": [{
       "base": "uart",
       "symbol": "ART",
-      "exponent": "6",
+      "exponent": "18",
       "coingecko_id": "", 
       "logo": "/logos/art.png"
   }],
