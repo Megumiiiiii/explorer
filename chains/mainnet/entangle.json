@@ -6,7 +6,7 @@
   "snapshot_provider": "",
   "sdk_version": "0.46.1",
   "coin_type": "60",
-  "min_tx_fee": "800",
+  "min_tx_fee": "10000",
   "addr_prefix": "ethm",
   "logo": "/logos/entangle.png",
   "theme_color": "#4f5673",
