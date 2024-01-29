@@ -1,0 +1,20 @@
+{
+  "chain_name": "Artela",
+  "api": ["https://rest.altera.kessoku.xyz"],
+  "rpc": ["https://rpc.altera.kessoku.xyz"],
+  "chainId": "artela_11822-1-5",
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "60",
+  "min_tx_fee": "800",
+  "addr_prefix": "art",
+  "logo": "/logos/art.png",
+  "theme_color": "#fa7f05",
+  "assets": [{
+      "base": "uart",
+      "symbol": "ART",
+      "coingecko_id": "", 
+      "logo": "/logos/art.png"
+  }],
+  "beta": true
+}
