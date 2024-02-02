@@ -1,7 +1,7 @@
 {
-    "chain_name": "Dymension-Testnet",
-    "api": ["https://dymension.blockpi.network/lcd/v1/public" ],
-    "rpc": ["https://dymension.blockpi.network/rpc/v1/public"],
+    "chain_name": "Dymension",
+    "api": ["https://blumbus.blockpi.network/lcd/v1/543ab68105fb8ba6d8efa09e6400047e7f5a7d5e" ],
+    "rpc": ["https://blumbus.blockpi.network/rpc/v1/543ab68105fb8ba6d8efa09e6400047e7f5a7d5e"],
     "chainId": "froopyland_100-1",
     "snapshot_provider": "",
     "sdk_version": "0.46.1",
