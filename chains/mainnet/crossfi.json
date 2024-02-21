@@ -1,0 +1,21 @@
+{
+  "chain_name": "Crossfi-Testnet",
+  "api": ["https://api.crosf.kessoku.xyz"],
+  "rpc": ["https://rpc.crosf.kessoku.xyz"],
+  "chainId": "crossfi-evm-testnet-1",
+  "snapshot_provider": "",
+  "sdk_version": "0.46.1",
+  "coin_type": "60",
+  "min_tx_fee": "10000000000000",
+  "addr_prefix": "mx",
+  "logo": "/logos/cro.svg",
+  "theme_color": "#fa7f05",
+  "assets": [{
+      "base": "mpx",
+      "symbol": "MPX",
+      "exponent": "18",
+      "coingecko_id": "", 
+      "logo": "/logos/cro.svg"
+  }],
+  "beta": true
+}
