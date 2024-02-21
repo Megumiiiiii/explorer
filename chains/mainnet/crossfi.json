@@ -11,7 +11,7 @@
   "logo": "/logos/cro.svg",
   "theme_color": "#fa7f05",
   "assets": [{
-      "base": "ampx",
+      "base": "mpx",
       "symbol": "MPX",
       "exponent": "18",
       "coingecko_id": "", 
