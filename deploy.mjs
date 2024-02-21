@@ -4,7 +4,7 @@ import Arweave from "arweave";
 
 const ANT = "PDi4myhBweWJvTg3eXQDY82fFc-sjq1fqorMj69ZekI";
 const DEPLOY_FOLDER = "./dist";
-const IRYS_NODE = "https://up.arweave.net";
+const IRYS_NODE = "https://node2.irys.xyz";
 
 const jwk = JSON.parse(Buffer.from(process.env.KEY, "base64").toString("utf-8"));
 const arweave = Arweave.init({ host: "arweave.net", port: 443, protocol: "https" });
